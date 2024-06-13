@@ -1,0 +1,9 @@
+autoscriptest/
+autoscriptest/
+__init__.py
+config.py
+script.py
+test.py
+utils.py
+main.py
+requirements.txt
